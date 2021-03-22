@@ -1,0 +1,2 @@
+# amzonscripts
+Amazon userscripts (greasemonkey)
